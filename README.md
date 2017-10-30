@@ -14,7 +14,7 @@ Controls :
 
 Specifications Of The Game:
 
-# Game consists of the Bomberman and Enemies. 
+# Game consists of the 1 Bomberman and many Enemies. 
 # Bomberman has to kill all the enemies on a level to complete a given level.
 # Enemies or Bomberman are killed if they are caught up in an explosion.
 # Bomberman also loses his life if he collides with the enemy.
